@@ -1,3 +1,5 @@
+// Author: Remy van Elst, https://raymii.org. License: GNU AGPLv3
+
 #include "SaveToDisk.h"
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
